@@ -2,7 +2,7 @@ import pygame
 from pygame.locals import *
 # from pygame import mixer
 
-resolution = (1024, 768)
+resolution = (768/2, 1280/2)
 
 # Initialize pygame
 pygame.init()
